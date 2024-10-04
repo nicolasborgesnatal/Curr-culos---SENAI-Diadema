@@ -19,7 +19,7 @@ body{
     transform: translate(-50%,-50%);
     position: absolute;
     left: 50%;
-    top: 204%;
+    top: 218%;
     border-radius: 10px;
     box-shadow: 20px 30px 25px rgba(0,0,0,0.15);
     border: 3.5px solid red;
@@ -127,7 +127,7 @@ footer {
     width: 100%;
     padding: 15px 0;
     color: white;
-    margin-top: 175%;
+    margin-top: 180%;
 }
 
 .containerfooter {
